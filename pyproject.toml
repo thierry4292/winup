@@ -1,0 +1,5 @@
+[project]
+name = "winup"
+version = "0.1.0"
+description = "The repo for the WinUp Library Project."
+requires-python = ">=3.10"
