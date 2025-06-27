@@ -10,3 +10,4 @@ build/
 coverage/
 .cache/
 tmp/
+.pytest_cache/
